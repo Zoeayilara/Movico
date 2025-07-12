@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple steps.
 - Run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
-git clone https://github.com/shaqdeff/Movie-Metro.git
+git clone https://github.com/Zoeayilara/Movico.git
 ```
 
 - Once the files are on your machine, open the **Micro-Space-Hub** folder in [Visual Studio Code](https://code.visualstudio.com/download).
@@ -72,7 +72,7 @@ This will run the unit tests.
 👤 **Zoe Ayilara**
 
 - GitHub: [@zoeayilara](https://github.com/Zoeayilara)
-- LinkedIn: [Zoe Ayilara](https://github.com/Zoeayilara/Movico.git)
+- LinkedIn: [Zoe Ayilara](www.linkedin.com/in/zoe-ayilara-b029a0318)
 
 ## 🤝 Contributing
 
