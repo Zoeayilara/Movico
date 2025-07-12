@@ -72,7 +72,7 @@ This will run the unit tests.
 👤 **Zoe Ayilara**
 
 - GitHub: [@zoeayilara](https://github.com/Zoeayilara)
-- LinkedIn: [Zoe Ayilara](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+- LinkedIn: [Zoe Ayilara](https://github.com/Zoeayilara/Movico.git)
 
 ## 🤝 Contributing
 
