@@ -11,7 +11,8 @@ Movie Metro is a single page application that allows users to search for any mov
 
 ## Live Demo
 
-- Click [here](https://movie-metro.netlify.app/) to view the live demo.
+- Click [Netlify Demo](https://movie-metro.netlify.app/) to view the live demo.
+- Click [Github Demo](https://movie-metro.netlify.app/) to view the live demo
 
 ## Getting Started
 
