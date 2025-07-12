@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Movico/static/css/main.4c467e16.css",
+    "main.js": "/Movico/static/js/main.cba26164.js",
+    "static/media/boxicons.svg": "/Movico/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
+    "static/media/footer-bg.jpg": "/Movico/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/Movico/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/Movico/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/Movico/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/Movico/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "index.html": "/Movico/index.html",
+    "main.4c467e16.css.map": "/Movico/static/css/main.4c467e16.css.map",
+    "main.cba26164.js.map": "/Movico/static/js/main.cba26164.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c467e16.css",
+    "static/js/main.cba26164.js"
+  ]
+}
